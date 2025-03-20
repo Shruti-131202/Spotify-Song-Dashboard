@@ -14,3 +14,9 @@ The objective of this project is to analyze Spotify song data using Power BI to 
 8.	How does the track distribution vary across different years?
 9.	Which track appears in the highest number of Apple and Deezer playlists?
 10.	Are there any significant discrepancies in rankings across different streaming platforms?
+## Process
+•	Gather Spotify song data from Kaggle .
+•	Remove duplicates, handle missing values, and format data properly.
+•	Identify trends in track releases, artist popularity, and rankings.
+•	Create  insights using PowerBi.
+## Dashboard
