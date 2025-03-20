@@ -20,3 +20,4 @@ The objective of this project is to analyze Spotify song data using Power BI to 
 •	Identify trends in track releases, artist popularity, and rankings.
 •	Create  insights using PowerBi.
 ## Dashboard
+<a href ="https://github.com/Shruti-131202/Spotify-Song-Dashboard/blob/main/Spotify.jpg">View Dashboard</a>
