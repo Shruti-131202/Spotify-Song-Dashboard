@@ -33,8 +33,6 @@ The objective of this project is to analyze Spotify song data using Power BI to 
 9. The average energy level per track is 76, indicating most songs have a high energy composition.
 10. The sum of liveliness percentage across tracks is 19, suggesting some variability in track dynamics.
 ## Final Conclusion:
-•2020 saw the highest track releases, indicating a surge in music production.
-•	Dua Lipa and Bad Bunny dominate in terms of streams, showcasing their widespread popularity.
-•	Some tracks perform consistently across different streaming platforms, while others vary significantly, suggesting audience preferences differ by platform.
-•	High energy and liveliness values suggest an inclination towards upbeat tracks, making them more engaging for listeners.
-•	Understanding platform-specific popularity can help music distributors optimize their marketing and playlist placements.
+2020 saw the highest track releases, indicating a surge in music production.
+Dua Lipa and Bad Bunny dominate in terms of streams, showcasing their widespread popularity.
+Some tracks perform consistently across different streaming platforms, while others vary significantly, suggesting audience preferences differ by platform.High energy and liveliness values suggest an inclination towards upbeat tracks, making them more engaging for listeners.Understanding platform-specific popularity can help music distributors optimize their marketing and playlist placements.
