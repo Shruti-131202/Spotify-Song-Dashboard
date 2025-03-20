@@ -21,3 +21,20 @@ The objective of this project is to analyze Spotify song data using Power BI to 
 •	Create  insights using PowerBi.
 ## Dashboard
 <a href ="https://github.com/Shruti-131202/Spotify-Song-Dashboard/blob/main/Spotify.jpg">View Dashboard</a>
+## Insights from the Dashboard:
+o	The dataset includes tracks released between 2014 and 2020, with 23 tracks released in 2020, indicating a peak in releases that year.
+o	The top artist based on streams is Dua Lipa , with over 1.8 billion streams.
+o	Other top artists include Bad Bunny, Conan Gray, Tate McRae, and Rauw Alejandro.
+o	Tracks are categorized into different keys, with one key (F) having the highest share (21.74%).
+o	Some tracks, like "Still With You", have a 100% match in both Spotify and Shazam charts.
+o	However, tracks like "august" and "Dákiti" show significant variation in rankings across the two platforms.
+o	Some tracks have a higher count in Apple playlists compared to Deezer, suggesting platform-specific popularity.
+o	The difference varies per track, impacting how songs trend across different platforms.
+o	The average energy level per track is 76, indicating most songs have a high energy composition.
+o	The sum of liveliness percentage across tracks is 19, suggesting some variability in track dynamics.
+## Final Conclusion:
+•	2020 saw the highest track releases, indicating a surge in music production.
+•	Dua Lipa and Bad Bunny dominate in terms of streams, showcasing their widespread popularity.
+•	Some tracks perform consistently across different streaming platforms, while others vary significantly, suggesting audience preferences differ by platform.
+•	High energy and liveliness values suggest an inclination towards upbeat tracks, making them more engaging for listeners.
+•	Understanding platform-specific popularity can help music distributors optimize their marketing and playlist placements.
